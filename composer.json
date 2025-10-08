@@ -1,0 +1,16 @@
+{
+    "name": "roberto/pprueba_destinia",
+    "autoload": {
+        "psr-4": {
+            "Roberto\\PruebaDestinia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robertocmt13"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.3"
+    }
+}

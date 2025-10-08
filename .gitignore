@@ -1,0 +1,27 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Environment files
+.env
+.env.*
+
+# Logs and runtime
+/logs/
+*.log
+/tmp/
+
+# PHPStorm / JetBrains
+.idea/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# PHPUnit
+.phpunit.result.cache
