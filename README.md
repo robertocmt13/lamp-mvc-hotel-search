@@ -13,7 +13,7 @@ Aplicación en **PHP 8** (sin frameworks, solo POO) que:
 
 Aplicación en PHP orientada a objetos (sin frameworks) que, tomando **las tres primeras letras de la entrada estándar (STDIN)**, devuelve por **la salida estándar (STDOUT)** todas las coincidencias de hospedajes de una base de datos MySQL, ordenadas por nombre.  
 
-## ⚙️ Entorno utilizado
+## Entorno utilizado
 - Portátil personal con **Linux (Ubuntu)** en máquina física  
 - **PHP 8.3.6** con extensiones `mysqli`, `mbstring`  
 - **Mysql 8.0.43**
